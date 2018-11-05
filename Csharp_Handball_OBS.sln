@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Handball_OBS", "Csharp_Handball_OBS\Csharp_Handball_OBS.csproj", "{B865CF31-65F2-4D9B-B7DF-70D49FDE5DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B865CF31-65F2-4D9B-B7DF-70D49FDE5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B865CF31-65F2-4D9B-B7DF-70D49FDE5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B865CF31-65F2-4D9B-B7DF-70D49FDE5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B865CF31-65F2-4D9B-B7DF-70D49FDE5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D4A2B0-F4E9-4095-B216-5DF9F1E48661}
+	EndGlobalSection
+EndGlobal
