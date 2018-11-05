@@ -1,0 +1,11 @@
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\bin\Debug\Csharp_Handball_OBS.exe.config
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.csprojResolveAssemblyReference.cache
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.MainGUI.resources
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.Properties.Resources.resources
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.csproj.GenerateResource.Cache
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\bin\Debug\Csharp_Handball_OBS.exe
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\bin\Debug\Csharp_Handball_OBS.pdb
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.GameViews.GameView.resources
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.GameViews.PlayerView.resources
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.exe
+D:\Documenten\Development\HandballOBS\Csharp_Handball_OBS\obj\Debug\Csharp_Handball_OBS.pdb
